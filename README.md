@@ -1,6 +1,6 @@
 # Metaflow ETL Workflow for Airbnb Data
 
-This repo contains the assessment which is based on Metaflow-based workflow to perform Extract, Transform, Load (`ETL`) operations on Airbnb data using Python and PostgreSQL. The workflow is split into separate scripts for data ingestion (`data_ingestion.py`) and data transformation (`data_transformation.py`), orchestrated by Metaflow (`etl_flow.py`).
+This repo contains an ETL project which is based on Metaflow-based workflow to perform Extract, Transform, Load (`ETL`) operations on Airbnb data using Python and PostgreSQL. The workflow is split into separate scripts for data ingestion (`data_ingestion.py`) and data transformation (`data_transformation.py`), orchestrated by Metaflow (`etl_flow.py`).
 
 
 ## Setup
